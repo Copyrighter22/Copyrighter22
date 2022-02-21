@@ -1,5 +1,5 @@
 
-<h2>Hey there! I'm Andreu Monforte>
+<h2>Hey there! I'm Andreu Monforte
 
 ### 👨🏻‍💻 &nbsp;About Me
 
